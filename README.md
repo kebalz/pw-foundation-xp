@@ -1,2 +1,2 @@
 # pw-foundation-xp
-Testing repo that combined Processwire and foundation 6 stuff
+Testing repo that combines Processwire and Foundation 6 stuff.
